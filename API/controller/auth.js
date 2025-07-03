@@ -1,6 +1,6 @@
 const bcrypt = require('bcryptjs');
 const { readUsersFromFile, writeUsersToFile } = require('../../utils/fileUtils');
-const { generateToken } = require('../../utils/jwt'); // ✅ Use centralized JWT
+const { generateToken } = require('../../utils/jwt');
 
 exports.register = async (req, res) => {
   const { name, email, password } = req.body;
