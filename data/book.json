@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7b273fad-20de-4434-806d-d59ad920ac21",
+    "title": "C",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "publishedYear": 2008,
+    "userId": "siranjeevi@gmail.com"
+  },
+  {
+    "id": "a9f05215-5900-466a-bbc6-e7a5ed62c4e4",
+    "title": "JAVA",
+    "author": "James Gosling",
+    "genre": "Programming",
+    "publishedYear": 1995,
+    "userId": "siranjeevi@gmail.com"
+  },
+  {
+    "id": "0d77bc8d-c6da-48ff-ae3b-1e679b9951e3",
+    "title": "PYTHON",
+    "author": "Guido van Rossum",
+    "genre": "Programming",
+    "publishedYear": 1992,
+    "userId": "siranjeevi@gmail.com"
+  },
+  {
+    "id": "fd8be5f5-b259-486b-b5c3-d1c0a5cec4f5",
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl's",
+    "genre": "Novel",
+    "publishedYear": 1964,
+    "userId": "siranjeevi@gmail.com"
+  },
+  {
+    "id": "9453f240-b9bc-44dd-abed-45889427678e",
+    "title": "BFG",
+    "author": "Roald Dahl's",
+    "genre": "Novel",
+    "publishedYear": 1964,
+    "userId": "siranjeevi@gmail.com"
+  }
+]

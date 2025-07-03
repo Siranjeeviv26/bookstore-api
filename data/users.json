@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": 1,
+    "name": "Siranjeevi",
+    "email": "siranjeevi@gmail.com",
+    "password": "$2b$10$wwrenV60c05oECTsyA/A5.874dWNEnjNbJArL6YBmrf0aTQo6/A/u"
+  },
+  {
+    "user_id": 2,
+    "name": "San",
+    "email": "sam@gmail.com",
+    "password": "$2b$10$VWVfRxXggixMU8MedXEzre71SgnEolULNT0mShmipA.kbLGTa5rM6"
+  }
+]
