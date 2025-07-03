@@ -6,27 +6,6 @@ A simple Node.js + JWT + JSON-file-based REST API for user authentication and bo
 
 ## 📦 Project Structure
 
-bookstore-api/
-├── server.js
-├── API/
-│ ├── controller/
-│ │ ├── auth.js
-│ │ └── book.js
-│ ├── routes/
-│ │ ├── auth.js
-│ │ └── book.js
-├── middleware/
-│ └── logger.js
-├── utils/
-│ ├── fileUtils.js
-│ └── jwt.js
-├── data/
-│ ├── users.json
-│ └── book.json
-├── package.json
-└── README.md
-
-
 ---
 
 ## 🚀 Setup Instructions
